@@ -1,5 +1,6 @@
 obj-m += i2c_drv.o
 obj-m += i2c_dev.o
+
 all:
 	make -C ~/linux/kernel M=$(PWD) modules  
 
