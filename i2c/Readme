@@ -1,18 +1,9 @@
 A simple example
-
-
-
-
-
-
-
-
-
-
-
-
-
 func branch2()
+{
+
+}
+func master()
 {
 
 }
